@@ -32,7 +32,7 @@
         <AppBar>
             <h1 class="text-left text-2xl font-bold">CodeDump</h1>
         </AppBar>
-    </svelte:fragment>
+    </svelte:fragment>  
     <slot />
 </AppShell>
 
